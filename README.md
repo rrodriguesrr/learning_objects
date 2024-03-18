@@ -8,11 +8,12 @@ Site para Download: https://www.anaconda.com/
 
 3. Criar o ambiente Python no software Anaconda, através do arquivo environment.yml
 - Para Windows, acesse o Anaconda Powershell Prompt
-- Digite o comando: conda env create -f environemtn.yml
+- Digite o comando: conda env create -f environment.yml
 
 4. Ativar o ambiente criado no Anaconda:
 - Para Windows, acesse o Anaconda Powershell Prompt
 - Digite o comando: conda activate ic_mackenzie
+- Associar o ambiente Conda criado com um Kernel IPython através do comando: python -m ipykernel install --user --name ic_mackenzie --display-name "IC Mackenzie"
 
 5. Copie os arquivos das pastas KNN, NAIVE BAYES e SVM para um diretório de sua preferência.Recomendado manter a estrutura de diretórios original.
 
