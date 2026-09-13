@@ -15,7 +15,7 @@ website:
       - section: "Modelos de Machine Learning"
         contents:
           - text: "Modelo K-NN"
-            file: "KNN/K-NN-EN.ipynb"
+            file: "KNN/K-NN.ipynb"
 
 format:
   html:
