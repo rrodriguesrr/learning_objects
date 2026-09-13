@@ -13,7 +13,7 @@ website:
         file: index.md
       - section: "Modelos de Machine Learning"
         contents:
-          - KNN/K-NN-EN.ipynb.ipynb
+          - KNN/K-NN-EN.ipynb
 
 format:
   html:
