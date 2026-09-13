@@ -1,7 +1,8 @@
 project:
   type: website
   resources:
-    - "KNN/Introdução.mp4" # Se tiver mais vídeos, basta ir adicionando linhas com "- pasta/nome.mp4" aqui embaixo
+    - "KNN/Introdução.mp4"
+    - "KNN/KNN - Criando o Modelo.mp4"
 
 website:
   title: "Objetos de Aprendizagem"
@@ -12,8 +13,9 @@ website:
       - text: "Início"
         file: index.md
       - section: "Modelos de Machine Learning"
-        contents:
-          - KNN/K-NN-EN.ipynb
+    contents:
+              - text: "Modelo K-NN"
+                file: "KNN/K-NN-EN.ipynb"
 
 format:
   html:
