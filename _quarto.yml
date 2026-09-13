@@ -1,8 +1,8 @@
 project:
   type: website
   resources:
-    - "KNN/Introdução.mp4"
-    - "KNN/KNN - Criando o Modelo.mp4"
+    - "K-NN/Introdução.mp4"
+    - "K-NN/KNN - Criando o Modelo.mp4"
 
 website:
   title: "Objetos de Aprendizagem"
@@ -15,7 +15,7 @@ website:
       - section: "Modelos de Machine Learning"
         contents:
           - text: "Modelo K-NN"
-            file: "KNN/K-NN.ipynb"
+            file: "K-NN/K-NN.ipynb"
 
 format:
   html:
