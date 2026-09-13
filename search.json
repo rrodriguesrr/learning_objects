@@ -2,29 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "learning_objects",
+    "title": "Portal de Estudos",
     "section": "",
-    "text": "Antes de utilizar os Objetos de Aprendizagem, certifiquem-se de:\n\nInstalar o Software Anaconda em seu computador. Site para Download: https://www.anaconda.com/\nClonar o repositório em seu computador local.\nCriar o ambiente Python no software Anaconda, através do arquivo environment.yml\n\n\nPara Windows, acesse o Anaconda Powershell Prompt\nDigite o comando: conda env create -f environment.yml\n\n\nAtivar o ambiente criado no Anaconda:\n\n\nPara Windows, acesse o Anaconda Powershell Prompt\nDigite o comando: conda activate ic_mackenzie\nAssociar o ambiente Conda criado com um Kernel IPython através do comando: python -m ipykernel install –user –name ic_mackenzie –display-name “IC Mackenzie”\n\n\nCopie os arquivos das pastas KNN, NAIVE BAYES e SVM para um diretório de sua preferência.Recomendado manter a estrutura de diretórios original.\nOs objetos de Aprendizagem devem ser acessados pelo Jupyter Notebook.\n\n*** Para Linux, a criação do ambiente Python no Anaconda segue os mesmos comandos ***\n*** Caso não deseje utilizar o Anaconda, favor utilizar a versão 3.8.0 do Python e instalar os pacotes individualmente, conforme imports encontrados no Jupyter Notebook.\nContato: rubensdias.rodrigues@mackenzista.com.br\n\n\n\nBefore using the Learning Objects, please ensure the following steps are completed:\n\nInstall the Anaconda Software on your computer.\n\n\nDownload site: https://www.anaconda.com/\n\n\nClone the repository to your local computer.\nCreate the Python environment in Anaconda using the environment.yml file:\n\n\nFor Windows, open the Anaconda Powershell Prompt.\nEnter the command: conda env create -f environment.yml\n\n\nActivate the environment created in Anaconda:\n\n\nFor Windows, open the Anaconda Powershell Prompt.\nEnter the command: conda activate ic_mackenzie\nAssociate the Conda environment with an IPython Kernel by entering the command: python -m ipykernel install –user –name ic_mackenzie –display-name “IC Mackenzie”\n\n\nCopy the files from the KNN, NAIVE BAYES, and SVM folders to a directory of your choice. It’s recommended to maintain the original directory structure.\nThe Learning Objects should be accessed via Jupyter Notebook.\n\n*** For Linux, the process of creating the Python environment in Anaconda follows the same commands. ***\n*** If you prefer not to use Anaconda, please use Python version 3.8.0 and install the packages individually as per the imports found in the Jupyter Notebook. ***\nContact: rubensdias.rodrigues@mackenzista.com.br",
-    "crumbs": [
-      "Início"
-    ]
-  },
-  {
-    "objectID": "index.html#pt-versão",
-    "href": "index.html#pt-versão",
-    "title": "learning_objects",
-    "section": "",
-    "text": "Antes de utilizar os Objetos de Aprendizagem, certifiquem-se de:\n\nInstalar o Software Anaconda em seu computador. Site para Download: https://www.anaconda.com/\nClonar o repositório em seu computador local.\nCriar o ambiente Python no software Anaconda, através do arquivo environment.yml\n\n\nPara Windows, acesse o Anaconda Powershell Prompt\nDigite o comando: conda env create -f environment.yml\n\n\nAtivar o ambiente criado no Anaconda:\n\n\nPara Windows, acesse o Anaconda Powershell Prompt\nDigite o comando: conda activate ic_mackenzie\nAssociar o ambiente Conda criado com um Kernel IPython através do comando: python -m ipykernel install –user –name ic_mackenzie –display-name “IC Mackenzie”\n\n\nCopie os arquivos das pastas KNN, NAIVE BAYES e SVM para um diretório de sua preferência.Recomendado manter a estrutura de diretórios original.\nOs objetos de Aprendizagem devem ser acessados pelo Jupyter Notebook.\n\n*** Para Linux, a criação do ambiente Python no Anaconda segue os mesmos comandos ***\n*** Caso não deseje utilizar o Anaconda, favor utilizar a versão 3.8.0 do Python e instalar os pacotes individualmente, conforme imports encontrados no Jupyter Notebook.\nContato: rubensdias.rodrigues@mackenzista.com.br",
-    "crumbs": [
-      "Início"
-    ]
-  },
-  {
-    "objectID": "index.html#en-version",
-    "href": "index.html#en-version",
-    "title": "learning_objects",
-    "section": "",
-    "text": "Before using the Learning Objects, please ensure the following steps are completed:\n\nInstall the Anaconda Software on your computer.\n\n\nDownload site: https://www.anaconda.com/\n\n\nClone the repository to your local computer.\nCreate the Python environment in Anaconda using the environment.yml file:\n\n\nFor Windows, open the Anaconda Powershell Prompt.\nEnter the command: conda env create -f environment.yml\n\n\nActivate the environment created in Anaconda:\n\n\nFor Windows, open the Anaconda Powershell Prompt.\nEnter the command: conda activate ic_mackenzie\nAssociate the Conda environment with an IPython Kernel by entering the command: python -m ipykernel install –user –name ic_mackenzie –display-name “IC Mackenzie”\n\n\nCopy the files from the KNN, NAIVE BAYES, and SVM folders to a directory of your choice. It’s recommended to maintain the original directory structure.\nThe Learning Objects should be accessed via Jupyter Notebook.\n\n*** For Linux, the process of creating the Python environment in Anaconda follows the same commands. ***\n*** If you prefer not to use Anaconda, please use Python version 3.8.0 and install the packages individually as per the imports found in the Jupyter Notebook. ***\nContact: rubensdias.rodrigues@mackenzista.com.br",
+    "text": "Portal de Estudos\nSelecione a área de conhecimento desejada abaixo:\n\n\n📊 Multivariate Analysis\nModelos estatísticos clássicos, incluindo as aplicações de K-NN, Naive Bayes e SVM.\nAcessar Modelos\n\n\n🤖 LLM\nRecursos práticos sobre Large Language Models, arquiteturas RAG e IA agêntica.\nExplorar Conteúdo\n\n\n📈 Business Analytics\nModelagem de dados, engenharia de BI e inteligência de negócios.\nExplorar Conteúdo",
     "crumbs": [
       "Início"
     ]
